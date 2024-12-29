@@ -27,8 +27,8 @@ This project generates detailed test cases for GUI-based applications by analyzi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gui-test-case-generator.git
-   cd gui-test-case-generator
+   git clone https://github.com/TasinToha/cse499-project
+   cd cse499-project
    ```
 
 2. Create a virtual environment and activate it:
