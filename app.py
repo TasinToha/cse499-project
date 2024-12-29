@@ -23,7 +23,7 @@ Config.set("graphics", "width", "800")
 Config.set("graphics", "height", "600")
 
 # Configure OpenAI API
-openai.api_key = os.getenv("OPENAI_API_KEY", "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")
+openai.api_key = os.getenv("OPENAI_API_KEY", "your_key_here")
 
 # Configure Tesseract OCR path
 pytesseract.pytesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
