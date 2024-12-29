@@ -1,0 +1,9 @@
+os-sys
+openai
+pytesseract
+Pillow
+opencv-python
+pandas
+selenium
+kivy
+loguru
