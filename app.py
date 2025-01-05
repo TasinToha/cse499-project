@@ -221,6 +221,7 @@ class TestApp(BoxLayout):
 
 class MyApp(App):
     def build(self):
+        self.title = "GUI Test Case Generator"
         return TestApp()
 
 if __name__ == "__main__":
